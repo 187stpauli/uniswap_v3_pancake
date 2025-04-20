@@ -1,0 +1,34 @@
+{
+  "OPTIMISM": {
+    "chain_id": 10,
+    "rpc_url": "https://optimism.llamarpc.com",
+    "explorer_url": "https://optimistic.etherscan.io",
+    "router_address": "0xa132DAB612dB5cB9fC9Ac426A0Cc215A3423F9c9",
+    "quoter_address": "0x4200000000000000000000000000000000000006",
+    "decimals": 18
+  },
+  "BSC": {
+    "chain_id": 56,
+    "rpc_url": "https://binance.llamarpc.com",
+    "explorer_url": "https://bscscan.com",
+    "router_address": "0x1b81D678ffb9C0263b24A97847620C99d213eB14",
+    "quoter_address": "0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997",
+    "decimals": 18
+  },
+  "POLYGON": {
+    "chain_id": 137,
+    "rpc_url": "https://polygon.llamarpc.com",
+    "explorer_url": "https://polygonscan.com",
+    "router_address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506",
+    "quoter_address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "decimals": 18
+  },
+  "ARBITRUM": {
+    "chain_id": 42161,
+    "rpc_url": "https://arb1.arbitrum.io/rpc",
+    "explorer_url": "https://arbiscan.io",
+    "router_address": "0x1b81D678ffb9C0263b24A97847620C99d213eB14",
+    "quoter_address": "0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997",
+    "decimals": 18
+  }
+}
